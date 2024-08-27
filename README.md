@@ -1,7 +1,7 @@
 # Visualizando el rendimiento de Adventure Works Cycle 🚲 con Power BI 📊
 
 <div align="center">
-  <img src="Logo.png" alt="Logo" width="300"/>
+  <img src="Logo.jpg" alt="Logo" width="300"/>
 </div>
 
 ## Descripción
