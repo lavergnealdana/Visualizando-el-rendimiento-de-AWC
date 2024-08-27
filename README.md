@@ -21,6 +21,10 @@ El proyecto se llevó a cabo en cuatro etapas principales:
 3. **Cálculos con DAX:** Se emplearon fórmulas DAX para calcular métricas avanzadas como utilidades, ingresos segmentados y variaciones mensuales.
 4. **Visualización y Dashboard:** Se diseñaron visualizaciones interactivas que permiten a los usuarios finales explorar los datos de manera intuitiva y dinámica.
 
+<div align="center">
+  <img src="Portada.jpg" alt="Portada" width="300"/>
+</div>
+
 ## Tecnologías Utilizadas
 
 - **Power BI** 📊
