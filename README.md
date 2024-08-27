@@ -26,7 +26,6 @@ El proyecto se llevó a cabo en cuatro etapas principales:
 - **Power BI** 📊
 - **Power Query** 🧹
 - **DAX** 🧠
-- **SQL** 💾
-- **Excel** 📈
+- **SQL Server** 💾
 
 💼 **¿Buscas un analista de datos con experiencia en análisis de datos, visualización y dashboard?** ¡No dudes en contactarme a **lavergnealdana@gmail.com** para explorar cómo puedo ayudarte a alcanzar tus objetivos con análisis de datos precisos y útiles! 📩
