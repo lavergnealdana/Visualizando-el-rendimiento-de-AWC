@@ -22,7 +22,7 @@ El proyecto se llevó a cabo en cuatro etapas principales:
 4. **Visualización y Dashboard:** Se diseñaron visualizaciones interactivas que permiten a los usuarios finales explorar los datos de manera intuitiva y dinámica.
 
 <div align="center">
-  <img src="Portada.jpg" alt="Portada" width="300"/>
+  <img src="Portada.png" alt="Portada" width="300"/>
 </div>
 
 ## Tecnologías Utilizadas
