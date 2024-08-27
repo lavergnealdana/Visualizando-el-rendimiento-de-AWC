@@ -21,9 +21,10 @@ El proyecto se llevó a cabo en cuatro etapas principales:
 3. **Cálculos con DAX:** Se emplearon fórmulas DAX para calcular métricas avanzadas como utilidades, ingresos segmentados y variaciones mensuales.
 4. **Visualización y Dashboard:** Se diseñaron visualizaciones interactivas que permiten a los usuarios finales explorar los datos de manera intuitiva y dinámica.
 
-<div align="center">
-  <img src="Portada.png" alt="Portada" width="300"/>
-</div>
+<div>
+  <img src="Portada.png" alt="Portada" width="200" style="display:inline-block; margin-right: 10px;"/>
+  <img src="Hoja1.png" alt="Hoja 1" width="200" style="display:inline-block; margin-right: 10px;"/>
+  <img src="Hoja2.png" alt="Hoja 2" width="200" style="display:inline-block;"/>
 
 ## Tecnologías Utilizadas
 
